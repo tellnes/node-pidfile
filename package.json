@@ -1,0 +1,19 @@
+{
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
+  "name": "pidfile",
+  "description": "Pidfile",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "fs-ext": "~0.2.3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/node-pidfile.git"
+  }
+}
